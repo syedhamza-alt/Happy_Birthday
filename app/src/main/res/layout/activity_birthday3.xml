@@ -36,13 +36,13 @@
 
         <TextView
             android:id="@+id/tv1"
-            android:layout_width="352dp"
-            android:paddingLeft="10px"
-            android:layout_height="264dp"
+            android:layout_width="350dp"
+            android:layout_height="270dp"
             android:layout_marginTop="380dp"
-            android:fontFamily="@font/allura"
+            android:fontFamily="@font/alata"
+            android:paddingLeft="30dp"
             android:textColor="@color/material_dynamic_neutral_variant95"
-            android:textSize="40sp"
+            android:textSize="25sp"
             android:textStyle="bold|italic"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.076"
